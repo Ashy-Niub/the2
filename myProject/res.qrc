@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>png/richangcaozuo-01.png</file>
+        <file>login_images/32cc8c67-7722-4f1f-9ce5-fd2c81fce843.png</file>
+        <file>login_images/46d4cb07-1d34-48e8-95ea-4a1979a28e50.png</file>
+        <file>login_images/2229b086-89d2-49cd-b15d-43de95d7dbdd.png</file>
+        <file>login_images/background.jpg</file>
+        <file>login_images/c166617b-9477-4cd4-9c9e-cd954d36d7d4.png</file>
+        <file>png/true.png</file>
+        <file>login_images/jiguang.png</file>
+        <file>login_images/fengjing.png</file>
+        <file>login_images/sinian.png</file>
+        <file>login_images/huanghun.png</file>
+        <file>main_images/cleanport.png</file>
+        <file>main_images/clearbytes.png</file>
+        <file>main_images/loadfile.png</file>
+        <file>main_images/mesage.png</file>
+        <file>main_images/save.png</file>
+        <file>main_images/stop.png</file>
+        <file>main_images/time.png</file>
+        <file>main_images/write2file.png</file>
+        <file>login_images/lantian.png</file>
+        <file>login_images/dongri.png</file>
+    </qresource>
+</RCC>
